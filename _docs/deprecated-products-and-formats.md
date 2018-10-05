@@ -7,6 +7,15 @@ permalink: /docs/deprecated-products-and-formats/
 
 GO is no longer using the following products and formats: 
 
+| XML format Database tables | Filtered| Release | File |
+|----------------|---|---|---|
+|RDF-XML [format guide](go-rdfxml-file-format.md) |	Filtered ontology |	Daily |	<a href="http://archive.geneontology.org/latest-termdb/go_daily-termdb.rdf-xml.gz">rdf-xml.gz</a>|
+|OWL (old mapping) <a href="http://www.bioontology.org/wiki/index.php/OboInOwl:Main_Page">format guide</a>|	Filtered ontology |	Daily |	<a href="http://archive.geneontology.org/latest-termdb/go_daily-termdb.owl.gz">owl.gz</a>|
++ OBO-XML and FASTA files were retired in 2018.  
++ [OBO 1.2 File Format Guide](http://owlcollab.github.io/oboformat/doc/GO.format.obo-1_2.html): previous iteration of the OBO format
++ [OBO 1.0 File Format Guide](http://owlcollab.github.io/oboformat/doc/GO.format.obo-1_0.html): previous iteration of the OBO format
+
+
 ## Ontology
 OBO-XML and FASTA files were retired in 2018.  
 
