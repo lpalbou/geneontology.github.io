@@ -18,7 +18,7 @@ If you used a specific software/analysis tool in your research, in addition to t
 
 + AmiGO: <a href="http://bioinformatics.oxfordjournals.org/content/25/2/288.full.pdf+html">Carbon S, Ireland A, Mungall CJ, Shu S, Marshall B, Lewis S, AmiGO Hub, Web Presence Working Group. AmiGO: online access to ontology and annotation data.</a>
 
-+ OBO-Edit: Day-Ritcher J, Harris MA, Haendel M, Gene Ontology OBO Edit Working Group
++ OBO-Edit: Day-Ritcher J, Harris MA, Haendel M, Gene Ontology OBO Edit Working Group, Lewis S. OBO-Edit: an ontology editor for biologists. Bioinformatics. Aug 2007;23(16):2198-200.
 
 + OBO Edit: Day-Richter J, Harris MA, Haendel M, Gene Ontology OBO Edit Working Group, Lewis S. OBO Edit: an ontology editor for biologists. Bioinformatics. Aug 2007;23(16):2198-200. [abstract](http://bioinformatics.oxfordjournals.org/content/23/16/2198) | [full text](http://bioinformatics.oxfordjournals.org/content/23/16/2198.full) 
 
