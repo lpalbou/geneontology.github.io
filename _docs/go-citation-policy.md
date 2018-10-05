@@ -1,30 +1,32 @@
 ---
-title: GO Citation Policy, Use, and License
+title: GO Citation Policy and License
 permalink: /docs/go-citation-policy/
 ---
 
-# GO Citation Policy, Use, and License
+# GO Citation Policy and License
 
-## Cite GO
+## Citing GO
 
 We ask that whenever using the GO and/or annotations in a publication, please cite the two papers below (the original paper describing GO, and our most recent update paper):
-   * Ashburner et al. Gene ontology: tool for the unification of biology (2000) Nat Genet 25(1):25-9. [Online at Nature Genetics](https://www.ncbi.nlm.nih.gov/pubmed/10802651).
-   * [GO Consortium, Nucleic Acids Res., 2017](https://www.ncbi.nlm.nih.gov/pubmed/27899567)
+
++ <a href="https://www.ncbi.nlm.nih.gov/pubmed/10802651">Ashburner et al. (2000) Gene ontology: tool for the unification of biology. Nat Genet 25(1):25-9</a>.
++ <a href="https://www.ncbi.nlm.nih.gov/pubmed/27899567">GO Consortium. (2017) Expansion of the Gene Ontology knowledgebase and resource. Nucleic Acids Res. 45(D1):D331-D338]</a>.
 
 If you used a specific software/analysis tool in your research, in addition to the two publications above, please also cite the tool used according to the following list:
-   * Enrichment analysis tool: [Mi et al., Nucleic Acids Res., 2017](https://www.ncbi.nlm.nih.gov/pubmed/27899595)
-   * AmiGO: Carbon S, Ireland A, Mungall CJ, Shu S, Marshall B, Lewis S, AmiGO Hub, Web Presence Working Group. AmiGO: online access to ontology and annotation data. Bioinformatics. Jan 2009;25(2):288-9. \[[abstract](http://bioinformatics.oxfordjournals.org/content/25/2/288) | [full text](http://bioinformatics.oxfordjournals.org/content/25/2/288.full.pdf+html)\]
-   * OBO-Edit: Day-Richter J, Harris MA, Haendel M, Gene Ontology OBO-Edit Working Group, Lewis S. OBO-Edit--an ontology editor for biologists. Bioinformatics. Aug 2007;23(16):2198-200. \[[abstract](http://bioinformatics.oxfordjournals.org/content/23/16/2198) | [full text](http://bioinformatics.oxfordjournals.org/content/23/16/2198.full)\]
 
-## Data from Downloads
++ Enrichment analysis tool: <a href="https://www.ncbi.nlm.nih.gov/pubmed/27899595">Mi et al. (2017) Nucleic Acids Res.</a>.
++ AmiGO: <a href="http://bioinformatics.oxfordjournals.org/content/25/2/288.full.pdf+html">Carbon S, Ireland A, Mungall CJ, Shu S, Marshall B, Lewis S, AmiGO Hub, Web Presence Working Group. AmiGO: online access to ontology and annotation data.</a>
++ OBO-Edit: Day-Richter J, Harris MA, Haendel M, Gene Ontology OBO-Edit Working Group, Lewis S. OBO-Edit--an ontology editor for biologists. Bioinformatics. Aug 2007;23(16):2198-200. \[ [abstract](http://bioinformatics.oxfordjournals.org/content/23/16/2198) | [full text](http://bioinformatics.oxfordjournals.org/content/23/16/2198.full) \]
+
+## Citing Data from Downloads
 
 If you wish to cite data provided by the Gene Ontology project, either from AmiGO or the files downloaded from the GO website, please state the release date and/or version number of the data, preferably both; e.g. "2018-10-01" or "10.5281/zenodo.1442498". Both annotation and ontology data may change over time, and to reproduce the results of an analysis, it is important that the same initial GO data is used.
 
-### Data from AmiGO
+### Citing Data from AmiGO
 
 The data release can be found in the page footer on the right-hand side. To cite the annotations of individual database groups please see the GO publications list.
 
-## Zotero
+## Citing from the Zotero Archive
 
 Both the Gene Ontology website and AmiGO are compatible with Zotero, the Firefox extension for collecting, managing, citing, and sharing research sources. Please contact the <a href="http://help.geneontology.org">GO Helpdesk</a> if you would like to request support for an alternative reference collection system.
 
