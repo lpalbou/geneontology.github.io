@@ -9,7 +9,7 @@ permalink: /docs/about/
 ## The Gene Ontology Project
 
 The Gene Ontology (GO) project is a major bioinformatics initiative to develop a computational representation of our
-evolving knowledge of how genes encode biological functions at the molecular, cellular and tissue system levels.
+evolving knowledge of how genes encode biological functions at the molecular [^1], cellular and tissue system levels.
 Biological systems are so complex that we need to rely on computers to represent this knowledge. The project has
 developed formal ontologies that represent over 40,000 biological concepts, and are constantly being revised to
 reflect new discoveries. To date, these concepts have been used to "annotate" gene functions based on experiments
@@ -41,3 +41,6 @@ of the Gene Ontology and creation of gene function annotations. [Read more about
 * [Monte Westerfield](http://zfin.org/ZDB-PERS-960805-676), University of Oregon (zebrafish gene annotation)
 
 ### The GO Consortium is funded by the National Human Genome Research Institute (US National Institutes of Health), grant number [HG002273](https://projectreporter.nih.gov/project_info_details.cfm?aid=9209989).
+
+
+[^1]: Well lucky for you, I've included more information in footnote form.
