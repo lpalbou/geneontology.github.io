@@ -16,6 +16,8 @@ reflect new discoveries. To date, these concepts have been used to "annotate" ge
 reported in over 140,000 peer-reviewed scientific papers. An overview of the GO resource [can be found here](IntroductiontoGOResource.md
 ).
 
+[^1]: Awesome footnote
+
 The GO resource plays an essential role in supporting biomedical research, including interpretation of large scale
 molecular experiments and computational analysis of biological knowledge. It has been used in tens of thousands of
 scientific studies.
@@ -43,4 +45,4 @@ of the Gene Ontology and creation of gene function annotations. [Read more about
 ### The GO Consortium is funded by the National Human Genome Research Institute (US National Institutes of Health), grant number [HG002273](https://projectreporter.nih.gov/project_info_details.cfm?aid=9209989).
 
 
-[^1]: Well lucky for you, I've included more information in footnote form.
+
